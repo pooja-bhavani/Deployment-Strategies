@@ -1,5 +1,5 @@
 # To create cluster with the configuration file
-```
+``` 
 kind create cluster --config kind-config.yml
 ```
 # To Forward the svc port to the EC2 instance port 3000  
